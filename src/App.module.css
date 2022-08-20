@@ -1,0 +1,28 @@
+* {
+  font-family: 'Poppins';
+  font-style: normal;
+}
+
+:root {
+  --Primary-Lavender:#7456FF;
+  --Secondary-Lavender:#8368FF;
+  --Tertiary-Lavender:#A693FF;
+  --Quartenary-Lavender:#C5B9FF;
+  --Quinary-Lavender:#E0DAFF;
+  --Primary-black:#0C0C0C;
+  --Secondary-black:#0F0F0F;
+  --Tertiary-black:#131313;
+  --Primary-Gray:#707070;
+  --Secondary-Gray:#999999;
+  --As-Lavender:#F5F2FF;
+  --White:#fff;
+}
+
+.App {
+  background: var(--Primary-black);
+}
+
+a {
+  text-decoration: none;
+}
+
