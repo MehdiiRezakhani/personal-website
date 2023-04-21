@@ -4,7 +4,7 @@ import {BrowserRouter} from 'react-router-dom';
 //Swiper for slider
 import "swiper/css/bundle";
 //style
-import './index.css';
+import './styles/index.css';
 //component
 import App from './App';
 

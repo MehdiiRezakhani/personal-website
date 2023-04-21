@@ -1,0 +1,14 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  background: var(--Primary-black);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
